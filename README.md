@@ -10,6 +10,6 @@ People Analytics, Employee Engagement, Employee Retention, Data Storytelling, Da
 ## **Project Deliverables**
 
 * **[Presentation to Technical Stakeholders(PDF)](https://github.com/Prashasti08/Predictors-of-Employee-Turnover-Retention-and-Engagement/blob/2caa372052e3fc30207558de83a6e4bbdec98853/Prashasti%20Tripathi_Data%20Translator%20Project%20%20Presentation%20(2)%20(1).pdf)**
-* **[Presentation to Technical Stakeholders(PDF)](Meta%20Case%20Study%20Presentation%20.pdf)**
+* **[R Codes (.R)](https://github.com/Prashasti08/Predictors-of-Employee-Turnover-Retention-and-Engagement/blob/7dc9cb5b93d78bebfe78c0c01d9394faf9e185c3/Workforce%20Insights.R)**
 
 
