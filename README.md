@@ -12,12 +12,12 @@ Identified a critical revenue leak in the **South Region** (3.0 engagement, 100%
 ### 1. Relationship between Engagement and Sales
 ![Engagement vs Sales](Engagement_vs_Sales_Chart.png)
 
-* Linear regression demonstrating the $2,230 per-point impact on revenue.*
+* Linear regression demonstrating the $2,230 per-point impact on revenue.
 
 ### 2. Residual Plot: Model Accuracy
 ![Model Validation](Model_Validation_Residuals.png)
 
-* Residual analysis confirming that the model's assumptions are statistically sound.*
+* Residual analysis confirming that the model's assumptions are statistically sound.
 
 
 
